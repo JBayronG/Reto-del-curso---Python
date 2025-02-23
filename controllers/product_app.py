@@ -1,6 +1,6 @@
 "Clase para gestionar la aplicación de productos."
 # En controllers/product_app.py
-from models.Product import Product  # Asegúrate de que estás importando la clase Product
+from models.Product import Product  # importar la clase Product
 
 class ProductApp:
     def __init__(self):
